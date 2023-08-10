@@ -2,10 +2,7 @@ const searchFrom = document.getElementById('search-form');
 const searchBox = document.getElementById('search-box');
 const searchResult = document.getElementById('search-result');
 const showMoreBtn = document.getElementById('show-more-btn');
-const accessKey = "Wv4BCWQ6Tfmxa2GUEu1LAtZBuQOptDxI2h77aPHQpZw";
-
-// access key : Wv4BCWQ6Tfmxa2GUEu1LAtZBuQOptDxI2h77aPHQpZw
-// secret key : Sro-XZVFAWisVQ3RI_rfn-auJstO4fOq-FsVrtwmaS0
+const accessKey = "Enter your access key from unsplash.com";
 
 let keyword = "";
 let page = 1;
